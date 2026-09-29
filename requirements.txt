@@ -4,5 +4,5 @@ numpy
 plotly
 openpyxl
 joblib
-scikit-learn
+scikit-learn==1.6.2
 lightgbm
